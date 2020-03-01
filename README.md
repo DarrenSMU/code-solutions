@@ -1,14 +1,14 @@
 # code-solutions
 
-Catalouge of prep questions i've done for interviews, Geeksforgeeks, leetcode & hackerrank
+Catalouge of prep questions i've done for interviews : Geeksforgeeks, leetcode & hackerrank
  
-I try to do intersting coding questions on my free time to brush up on my alogrithm and data structures knowledge for job interviews 
+I try to do interesting coding questions on my free time to brush up on my alogrithm and data structures knowledge for job interviews 
  
 I keep a consolidated log of questions done between my laptop and desktop 
 
 I keep a to-do list of interesting questions seen on youtube
  
-Some hard solutions i did not find on my own, but all implementations are my own.
+I did not come up with all solutions on my own,  but all implementations are my own.
  
 # To do list 
 
