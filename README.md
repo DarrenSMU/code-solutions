@@ -16,7 +16,7 @@ I did not come up with all solutions on my own,  but all implementations are my 
 
 * https://leetcode.com/problems/largest-number/submissions/
 
-* contiguous subarray kadane
+* ~~contiguous subarray kadane~~
 
 * cycle linked list, cycle 2 arrays with one same element, hare and tortoise  
 
